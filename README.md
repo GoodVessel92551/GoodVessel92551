@@ -18,4 +18,8 @@ Currently I am working on my own revision app: Booogle Revise which is a simple 
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodVessel92551&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodVessel92551&show_icons=true&theme=dark&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
