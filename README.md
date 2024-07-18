@@ -2,10 +2,10 @@
 ------
 ### 🧑 About Me
 
-Hi I’m GoodVessel92551. I’m a full stack developer that enjoys using flask. Right now I am focusing on front-end development and website design but I am still doing some fullstack websites. Here a some of my achievements: I am a 3x time winner of the Replit Creator Fund. I’m also the winner of the Front-end Jam and I also won the Art Hackathon and finally I won the NarraCodeJam.
+Hi I’m GoodVessel92551. I’m a full stack developer. Right now I am focusing on back-end and front-end development and some website design. Here a some of my achievements: I am a 3x time winner of the Replit Creator Fund. I’m also the winner of the Front-end Jam and I also won the Art Hackathon and finally I won the NarraCodeJam.
 
 ### 📝 Current Projects
-Currently I am working on my own revision app: Booogle Revise which is a simple revision app with flashcards, questions, and a community where you can share your revision sets.
+Currently I am working on re-doing my personal website in Next.js
 
 ### 🏳️: Languages:
 
